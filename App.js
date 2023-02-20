@@ -34,5 +34,5 @@ app.listen(port, ()=>{
 
 // git init
 // git add .
-// git commit -m " Serving Up Files "
+// git commit -m " Auto cropping and Image formatting "
 // git push -u origin master
