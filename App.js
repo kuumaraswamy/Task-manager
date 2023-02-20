@@ -34,5 +34,5 @@ app.listen(port, ()=>{
 
 // git init
 // git add .
-// git commit -m "Handling Express Error1"
+// git commit -m "Adding images to the User Profile and Delete "
 // git push -u origin master
