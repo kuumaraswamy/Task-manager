@@ -30,3 +30,9 @@ app.get('*', async(req,res)=>{
 app.listen(port, ()=>{
     console.log('Server is up on ' + port)
 })
+
+
+// git init
+// git add .
+// git commit -m "commit"
+// git push -u origin master
