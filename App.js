@@ -34,5 +34,5 @@ app.listen(port, ()=>{
 
 // git init
 // git add .
-// git commit -m " Auto cropping and Image formatting "
+// git commit -m " Sending welcome and cancellation Emails "
 // git push -u origin master
