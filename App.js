@@ -32,7 +32,3 @@ app.listen(port, ()=>{
 })
 
 
-// git init
-// git add .
-// git commit -m " Sending welcome and cancellation Emails "
-// git push -u origin master
